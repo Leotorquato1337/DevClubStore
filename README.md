@@ -1,3 +1,3 @@
 # DevClubStore
 
-Landing Page básica desenvolvida com HTML, Css e JavaScript.
+Landing Page desenvolvida com Html, Css e JavaScript.
